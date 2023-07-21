@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ameya Dikshit
 - 👀 I’m interested in Data Science & Front-end web development
-- 🌱 I’m currently learning engineering from Vivekanad college Mumbai
+- 🌱 I completed engineering from Vivekanand college Mumbai
 - 📫 Connect with me via LinkedIn ... https://www.linkedin.com/in/ameya-dikshit-1a1886214/
  
 <!---
